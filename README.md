@@ -1,4 +1,4 @@
-# scriptLanguage
+# scriptLang
 
 
 1. DDL (Data Definition Language):
